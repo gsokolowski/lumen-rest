@@ -4,7 +4,7 @@ migrations
 eloquent
 
 ---------------------------------------
-REST Requests examples
+REST Request examples
 
 POST (create book)
 http://localhost:8000/api/v1/book?title=Good Lumien&author=Greg Sokolowski&isbn=1234567
